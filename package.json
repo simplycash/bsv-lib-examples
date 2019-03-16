@@ -1,0 +1,21 @@
+{
+  "name": "bsv-lib-examples",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplycash/bsv-lib-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simplycash/bsv-lib-examples/issues"
+  },
+  "homepage": "https://github.com/simplycash/bsv-lib-examples#readme",
+  "dependencies": {
+    "bsv": "0.26.2"
+  }
+}
